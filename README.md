@@ -28,15 +28,15 @@ To set up the **Intelligent QA System** on your local machine, follow these step
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Adekunle-Habeeb/Intelligent-QA-System.git
-   cd Intelligent-QA-System
+   git clone [https://github.com/Adekunle-Habeeb/Intelligent-QA-System.git](https://github.com/Adekunle-Habeeb/RAG-system)
+   cd RAG-system
    ```
 
 2. **Create a Virtual Environment**
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source venv\Scripts\activate
    ```
 
 3. **Install Dependencies**
@@ -101,7 +101,7 @@ The application requires the following dependencies:
 - `numpy==1.23.4`
 - `pandas==1.5.3`
 - `sentence-transformers==2.2.2`
-- `InstructorEmbedding==0.0.5`
+- `InstructorEmbedding==1.0.1`
 
 ## Troubleshooting
 
