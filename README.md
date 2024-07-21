@@ -1,9 +1,5 @@
 ﻿# RAG-system
 
-Here’s a comprehensive README file for your app. It includes details about the app, setup instructions, and usage guidelines. Feel free to adjust any sections according to your specific needs.
-
----
-
 # Intelligent QA System
 
 Welcome to the **Intelligent QA System**! This application leverages modern language models and vector databases to provide intelligent question-answering capabilities. It uses various tools and technologies to handle and process queries effectively.
@@ -117,12 +113,5 @@ The application requires the following dependencies:
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have suggestions for improvements, please create an issue or submit a pull request on the [GitHub repository](https://github.com/Adekunle-Habeeb/Intelligent-QA-System).
+Contributions are welcome! If you find a bug or have suggestions for improvements, please create an issue or submit a pull request on the [GitHub repository]([https://github.com/Adekunle-Habeeb/Intelligent-QA-System](https://github.com/Adekunle-Habeeb/RAG-system)).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README further based on any additional features or specific details about your project.
