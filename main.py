@@ -9,16 +9,16 @@ st.info(
     """
     You can ask questions about various topics related to Habeeb Adekunle:
     - **Background**: "Who is Habeeb Adekunle?", "What is Habeeb's educational background?"
-    - **Technologies Proficient In**: "What technologies is Habeeb proficient in?"
-    - **Work Experience**: "What is Habeeb's work experience?"
-    - **Projects**: "What are Habeeb's projects in machine learning?", "What are the main features of the temperature prediction model built by Habeeb?"
+    - **Technologies Proficient In**: "What technologies is Habeeb proficient in?", "What AI tools and frameworks does Habeeb use?"
+    - **Work Experience**: "What is Habeeb's work experience?", "What roles has Habeeb held in backend and machine learning engineering?"
+    - **Projects**: "What are Habeeb's projects in machine learning?", "Can you describe Habeeb's temperature prediction model?", "What are some of Habeeb's notable AI applications?"
     - **Languages Spoken**: "What languages can Habeeb Adekunle speak?"
-    - **Certifications**: "What certifications does Habeeb Adekunle hold?"
-    - **Soft Skills**: "What soft skills does Habeeb Adekunle possess?"
+    - **Soft Skills**: "What soft skills does Habeeb Adekunle possess?", "How does Habeeb approach problem-solving and teamwork?"
 
     Feel free to ask any related questions!
     """
 )
+
 
 button = st.button("Start QA Session")
 
